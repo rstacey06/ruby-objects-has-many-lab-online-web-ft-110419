@@ -14,5 +14,6 @@ class Author
   end 
   
   def add_post
-    
+    post.author.self 
+  end 
 end
