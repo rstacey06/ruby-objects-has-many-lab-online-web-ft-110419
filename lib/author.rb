@@ -9,5 +9,5 @@ class Author
     @@all << self
   end
   
-  def
+  
 end
