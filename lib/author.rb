@@ -21,5 +21,3 @@ class Author
     
   end
 end
-song = Song.new(name)
-    add_song(song)
